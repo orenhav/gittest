@@ -2,4 +2,8 @@
 
 echo "forms in here";
 
+echo "form 1";
+
+echo "form 2";
+
 ?>
